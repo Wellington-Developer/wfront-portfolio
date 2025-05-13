@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Phone, Code, Braces, Palette, Server, GitBranch, PenTool, Database, LayoutDashboard } from "lucide-react";
+import { Code, Braces, Palette, Server, GitBranch, PenTool, Database, LayoutDashboard } from "lucide-react";
 import Subtitle from "@/app/components/Subtitle";
 import Paragraph from "@/app/components/Paragraph";
 

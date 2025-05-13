@@ -3,8 +3,7 @@
 import Paragraph from "@/app/components/Paragraph";
 import ProjectCard from "@/app/components/ProjectCard";
 import Subtitle from "@/app/components/Subtitle";
-import { BriefcaseBusiness, ChevronLeft, ChevronRight, FolderKanban, HeartPlus, Settings } from "lucide-react";
-import Image from "next/image";
+import { ChevronLeft, ChevronRight, FolderKanban, HeartPlus, Settings } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 
 const Projects = () => {

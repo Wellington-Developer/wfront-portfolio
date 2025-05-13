@@ -1,7 +1,7 @@
 import Paragraph from "@/app/components/Paragraph";
 import SocialButton from "@/app/components/SocialButton";
 import Subtitle from "@/app/components/Subtitle";
-import { Facebook, Github, Instagram, Linkedin } from "lucide-react";
+import { Github, Instagram, Linkedin } from "lucide-react";
 import Image from "next/image";
 
 const About = () => {

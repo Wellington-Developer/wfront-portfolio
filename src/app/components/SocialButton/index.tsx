@@ -1,4 +1,6 @@
-const SocialButton = ({ href, icon: Icon, label, className }: { href: string; icon: any; label: string; className?: string }) => {
+import { LucideIcon } from "lucide-react";
+
+const SocialButton = ({ href, icon: Icon, label, className }: { href: string; icon: LucideIcon; label: string; className?: string }) => {
 
   return (
     <a

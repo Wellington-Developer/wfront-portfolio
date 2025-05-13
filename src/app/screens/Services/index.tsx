@@ -1,6 +1,6 @@
 import Paragraph from "@/app/components/Paragraph";
 import Subtitle from "@/app/components/Subtitle";
-import { Code, Database, Figma, LayoutDashboard, Server } from "lucide-react";
+import { Code, Figma, LayoutDashboard, Server } from "lucide-react";
 
 const Services = () => {
     return (

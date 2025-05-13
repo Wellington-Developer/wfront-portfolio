@@ -2,7 +2,7 @@ import Button from "@/app/components/Button";
 import Paragraph from "@/app/components/Paragraph";
 import SocialButton from "@/app/components/SocialButton";
 import Title from "@/app/components/Title";
-import { Github, Linkedin, Mail, Phone } from 'lucide-react';
+import { Github, Linkedin, Phone } from 'lucide-react';
 import Image from "next/image";
 
 function Intro() {
